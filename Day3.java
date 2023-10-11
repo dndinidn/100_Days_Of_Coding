@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Day3 {
     public static void main(String[] args) {
-        System.out.print("kalkulator sesat");
+        System.out.println("kalkulator sesat");
         Scanner dn = new Scanner (System.in);
         System.out.print("masukkan angka pertama= ");
         int angkaPertama = dn.nextInt();
