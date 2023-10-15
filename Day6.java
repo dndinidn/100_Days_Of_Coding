@@ -15,6 +15,10 @@ public class Day6 {
             }
 
         }
-
+System.out.print("masukkan anngka= ");
+        int BatasAngkaa = dn.nextInt();
+        for (int i = 0; i < BatasAngkaa; i++) {
+            if (i % 2 == 0) {
+                System.out.println(i);
     }
 }
