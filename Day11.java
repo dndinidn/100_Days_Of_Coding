@@ -27,7 +27,7 @@ public class Day11 {
 
         hasil = a == b; //sama dengan
         System.out.println(a + "==" + b + " = " + hasil);
-
+//tes
         hasil = a != b; //tidak sama dengan
         System.out.println(a + "!=" + b + " = " + hasil);
     }
