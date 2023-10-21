@@ -10,10 +10,10 @@ public class Day11 {
         System.out.print("masukkan nilai a = ");
         int a = dn.nextInt();
         System.out.print("masukkan nilai b = ");
-        int b = dn.nextInt();
+         int b = dn.nextInt();
         boolean hasil;
 
-        hasil = a > b; //lebih besat
+        hasil = a > b; //lebih besar
         System.out.println(a + ">" + b + " = " + hasil);
 
         hasil = a < b; //lebih kecil
