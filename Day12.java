@@ -4,6 +4,7 @@ public class Day12 {
 
     public static void main(String[] args) {
         //ARRAY
+        
         String[] unsur = {"Hidrogen", "Litium", "Natrium", "Kalium", "Rubidium", "Cesium", "Fransium"};
         System.out.println("Unsur Golongan 1A");
         System.out.println("Periode ke-1= " + unsur[0]);
